@@ -1,0 +1,11 @@
+INDEX VERSION 1.134+C:\Users\billa\Documents\UNIWA\Courses\Network\Technology_and_Programming_of_Mobile_Devices\Project\Eclass\Java\.metadata\.plugins\org.eclipse.jdt.core
+1723815599.index
+823466214.index
+338825569.index
+1925175700.index
+1163231218.index
+1068718477.index
+522131887.index
+1865797976.index
+2769522042.index
+1861092342.index
